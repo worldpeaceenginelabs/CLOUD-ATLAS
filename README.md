@@ -53,7 +53,9 @@ A “currency” that is based on a valueless unit-system, just like in the movi
 
 # Status
 
-Development Kanban: https://github.com/users/worldpeaceenginelabs/projects/6
+### Development Kanbans
+- https://github.com/users/worldpeaceenginelabs/projects/6
+- https://github.com/users/worldpeaceenginelabs/projects/12
 <br><br><br>
 
 ## Progressive Web App
