@@ -9,7 +9,7 @@
 
 ### Lets make collaboration and good deeds sexy as entertainment, to rise the quality of our daily lifes and become our best selfs.
 
-### Become a member of the "People are awesome" network! https://cloudatlas.club
+### Become a member of the "Awesome People" network! https://cloudatlas.club
 
 ### The world to your (collective) command. A universal library with gaps but interaction options. A Metaverse for your thoughts. A social network to become better. ...and even earning a profit with doing good.
 <br><br><br>
