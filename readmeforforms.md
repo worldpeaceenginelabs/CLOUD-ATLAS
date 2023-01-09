@@ -12,6 +12,8 @@
 ![image](https://user-images.githubusercontent.com/67427045/211306062-eb52d8c9-e3f5-4252-8b03-c1a925102c9d.png)
 
 # This is how it should look graphically, with exeption of crowdfunding and petitions (the progress bar and the kickstarter typical look is important like in the pic above)
+
+### the edges should be border radius 10px, box-shadow 2px 2px 3px #666
 ![image](https://user-images.githubusercontent.com/67427045/211305439-cfd6a5ba-ffa9-4377-9ed0-3f0699c16ef1.png)
 
 ![image](https://user-images.githubusercontent.com/67427045/211307220-bff1de46-8d3d-4d1c-853b-7b4e599b9409.png)
