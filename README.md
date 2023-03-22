@@ -47,7 +47,7 @@ A distributed, global map tile server, for free access to a map tile API for You
 ## [NON-PROFIT AS-A-SERVICE](https://github.com/worldpeaceenginelabs/NON-PROFIT-AS-A-SERVICE)
 Non-profit as a service, pushing you to transform your idea into a non-profit business, which doesnt mean you cant do profit... (strong misconception about non-profit. Just the purpose is different, but not the methods. Of course you are allowed to make a profit, but for the good.) The more users your business has, the better the sustainable enhancement.<br>
 
-## [ZERODOLLAR CRYPTOCARD APP]()
+## [ZERODOLLAR CRYPTOCARD APP](https://github.com/worldpeaceenginelabs/ZERO-DOLLAR-CRYPTOCARD-APP)
 A “currency” that is based on a valueless unit-system, just like in the movies. Sustainability built in. Just buy, dont mind. Starting with fighting foodwaste, world hunger and homelessness in a row. The more users the app has, the better the food and shelter distribution. (more disribution channels to come)
 <br><br><br>
 
